@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+    background-color:bisque;
+    margin-left: auto;
+    margin-right: auto;
+}
+.code {
+    font-family: monospace;
+    background-color:khaki;
+}
+h1{
+    text-align: center;
+    color:black;
+}
+h2{
+    text-align: center;
+    margin-top: 7%;
+}
+table {
+    background-color: black;
+}
+th {
+    background-color:darksalmon;
+}
+td {
+    background-color: beige;
+}
